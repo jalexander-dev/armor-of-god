@@ -11,7 +11,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-3">
             <Image 
-              src="/images/AOG98.jpg"
+              src="/images/aog98.jpg"
               alt="Armor of God Logo"
               width={48}
               height={48}
@@ -36,7 +36,7 @@ export default function Home() {
       <div className="w-full max-w-7xl mx-auto">
         <div className="relative w-full h-[400px]">
           <Image 
-            src="/images/AOGB.jpg"
+            src="/images/aogb.jpg"
             alt="The Armor of God Banner"
             fill
             className="object-cover"
@@ -123,7 +123,7 @@ export default function Home() {
               <div className="md:w-1/2 p-8">
                 <div className="relative h-[300px] w-full">
                   <Image 
-                    src="/images/AOG-decription.jpg"
+                    src="/images/aog-decription.jpg"
                     alt="Armor of God Description"
                     fill
                     className="object-contain rounded-lg shadow-2xl"
